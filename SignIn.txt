@@ -1,1 +1,4 @@
 signin script
+Enter Email Address
+Enter Password
+Click on signin
